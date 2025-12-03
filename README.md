@@ -23,7 +23,7 @@ My work includes federated learning research, RAG systems, ML pipelines, and pro
 
 🔥 About Me
 
-🎓 Final-year student & AI researcher
+🎓 Fresh Graduate & AI researcher
 
 🤖 Working on Federated & Decentralized Federated Learning (Medical imaging)
 
